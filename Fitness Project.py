@@ -1,5 +1,4 @@
-
-
+#Fitness Tracker
 miles = int(input("Welcome to the calorie calculator!\nHow far did you travel today? (Miles)"))
 weight = int(input("How much do you weigh?(lbs)"))
 travel = input("Finally, did you run or walk?")
